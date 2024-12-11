@@ -1,0 +1,20 @@
+# ninja log v5
+40	1866	7556077294705444	CMakeFiles/cpp-project.dir/src/PrintHello.cpp.obj	24ccef10a1740973
+49	1879	7556077294984706	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+1880	2958	7556077305057902	cpp-project.exe	261c5ff56b04139e
+8	1546	7556078236412626	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+1549	1893	7556078239135384	cpp-project.exe	261c5ff56b04139e
+8	1705	7556082428521256	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+1707	3545	7556082431752618	cpp-project.exe	261c5ff56b04139e
+9	2684	7556087155675320	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+2691	4543	7556087160841542	cpp-project.exe	261c5ff56b04139e
+106	3473	7556344901163962	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+3475	4368	7556344910299740	cpp-project.exe	261c5ff56b04139e
+7	2472	7556348654694704	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+2473	3089	7556348659204357	cpp-project.exe	261c5ff56b04139e
+10	2113	7556349734557528	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+2115	2504	7556349737589421	cpp-project.exe	261c5ff56b04139e
+6	1600	7556349852888224	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+1602	1915	7556349855087456	cpp-project.exe	261c5ff56b04139e
+8	1607	7556353866971432	CMakeFiles/cpp-project.dir/src/main.cpp.obj	70ed0e6f1f97b89c
+1609	2128	7556353869330784	cpp-project.exe	261c5ff56b04139e

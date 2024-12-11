@@ -1,4 +1,3 @@
-//#include "PrintHello.hpp"
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -90,7 +89,7 @@ std::vector< std::string > split_sentence(std::string sen)
 int main()
 {
     std::unordered_map< std::string, Bag > bags;
-    std::ifstream data("C:/Users/Lenovo/Desktop/Studia/Cpp/projekt-2-MilosK2/zad_7/aoc7.txt");
+    std::ifstream data("../../../aoc7.txt");
     std::string   buff;
 
     while (std::getline(data, buff))
